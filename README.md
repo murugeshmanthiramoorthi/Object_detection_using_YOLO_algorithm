@@ -9,3 +9,5 @@ A sample is shown below.
 
 ### Resultant image:
 
+![](https://github.com/murugeshmanthiramoorthi/Object_detection_using_YOLO_algorithm/blob/main/result.png)
+
